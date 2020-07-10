@@ -4,5 +4,5 @@ This project is for learning how to debug using logger in Flutter.
 
 ### - Logger
 
-## Screenshots
-<img src="screenshots/one.png" width="400"> 
+## Screenshot
+<img src="screenshot/one.png" width="600"> 
